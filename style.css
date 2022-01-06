@@ -1,0 +1,44 @@
+body{
+    font-family: 'Barlow', sans-serif;
+font-family: 'Poppins', sans-serif;
+margin: 50px;
+}
+.section1{
+    display: flex;
+    width: 80%;
+    padding: 40px;
+}
+.border-add{
+    border-left: 4px solid tomato;
+    height: 70px;
+    margin-top: 50px;
+    padding-right: 10px;
+}
+.heading-content{
+    margin-top: 40px;
+    
+}
+.images img{
+    width: 70%;
+    margin-left: 100px;
+}
+#different-color{
+    color: rgb(233, 126, 25);
+}
+h2{
+    font-weight: 35px;
+    
+}
+.sort-border{
+
+    border-left: 3px solid orangered;
+}
+.btn{
+    background-color: rgb(150, 26, 4);
+    color: wheat;
+    text-decoration: none;
+    padding: 7px 30px;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
